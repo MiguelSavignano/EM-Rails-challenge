@@ -12,7 +12,7 @@ name:string price:integer description:text price_discount:integer
 
 * Los productos tendran paginación
 
-* La creación de los productos solo se podr¨¢ hacer si el usuario tiene rol de administrador
+* La creación de los productos solo se podrá hacer si el usuario tiene rol de administrador
 
 * Los productos pueden tener varias imágenes.
 
