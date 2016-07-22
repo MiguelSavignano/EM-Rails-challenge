@@ -29,5 +29,4 @@ Se usara Bootstrap como framework de css y js; todas las vistas deben ser lo mas
 Para la suit de test se usara Rspec y FactoryGirl; deben escribirse todos los test necesarios para probar que el CRUD funciona correctamente.
 cualquier metodo que se escriba en el modelo debe tener su correspondiente test unitario, cualquier variable que se asigne en el controlador debe tener un test unitario que comprueba el valor de esa variable. (recomendado usar scaffold y ver los test de CRUD creados por rspec)
 
-
 Se debe proporcionar una seed de la base de datos con 10000 records y todos los test deben pasar.
