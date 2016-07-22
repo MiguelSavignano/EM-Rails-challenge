@@ -6,8 +6,8 @@ Los campos necesarios de un producto son:
 ```
 name:string price:integer description:text price_discount:integer
 ```
-##Funcionalidades:
-rails g model Product
+##Funcionalidades
+
 * Creación de CRUD
 
 * Los productos tendran paginación
