@@ -1,14 +1,13 @@
-#Prueba de código 
+#Prueba de código
 
 CRUD básico de productos. crear, ver, actualizar y borrar.
 
-Los campos necesarios de un producto son
-
-##Funcionalidades:
-
-Product 
+Los campos necesarios de un producto son:
+```
 name:string price:integer description:text price_discount:integer
-
+```
+##Funcionalidades:
+rails g model Product
 * Creación de CRUD
 
 * Los productos tendran paginación
