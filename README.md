@@ -1,6 +1,6 @@
-#Prueba de c¨®digo
+#Prueba de código
 
-CRUD b¨¢sico de productos. crear, ver, actualizar y borrar.
+CRUD básico de productos. crear, ver, actualizar y borrar.
 
 Los campos necesarios de un producto son:
 ```
@@ -8,17 +8,17 @@ name:string price:integer description:text price_discount:integer
 ```
 ##Funcionalidades:
 rails g model Product
-* Creaci¨®n de CRUD
+* Creación de CRUD
 
-* Los productos tendran paginaci¨®n
+* Los productos tendran paginación
 
-* La creaci¨®n de los productos solo se podr¨¢ hacer si el usuario tiene rol de administrador
+* La creación de los productos solo se podr¨¢ hacer si el usuario tiene rol de administrador
 
-* Los productos pueden tener varias im¨¢genes.
+* Los productos pueden tener varias imágenes.
 
-* Los productos se podr¨¢n filtrar mostrando solo los productos en promoci¨®n, tambi¨¦n se pueden ordenar seg¨²n el precio de manera ascendente o descendente.
+* Los productos se podrán filtrar mostrando solo los productos en promoción, también se pueden ordenar según el precio de manera ascendente o descendente.
 
-* El administrador podr¨¢ descargar un csv con todos los productos.
+* El administrador podrá descargar un csv con todos los productos.
 
 ##Requerimientos
 
